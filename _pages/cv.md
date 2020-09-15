@@ -1,6 +1,6 @@
 ---
 layout: archive
-#title: "CV"
+title: "Cleber Zanchettin"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -23,7 +23,7 @@ Education
 
 Research interests 
 ======
-My research interests are primarily in the areas of Machine Learning, Artificial Neural Networks and Deep Learning.
+Machine Learning, Deep Learning, Models Interpretability, Computer Vision, Pattern Recognition, Text Mining, Neural Networks, Handwriting Recognition, Speaker Recognition, Document Understanding and Image Processing.
 
 Awards and Honors
 * 2019 – CNPq Industrial Technological Research Productivity Fellowship (renewed 2019-2021).
