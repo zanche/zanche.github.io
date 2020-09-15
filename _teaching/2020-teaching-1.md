@@ -7,6 +7,3 @@ venue: "Universidade Federal de Pernambuco, Centro de Informática"
 date: 2020-10-01
 location: "Recife, Brazil"
 ---
-
-
-
