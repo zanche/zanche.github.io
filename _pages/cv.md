@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+\\
 Visiting Associate Professor, Chemical and Biological Engineering
 Northwestern University, Evanston, IL, EUA
 
