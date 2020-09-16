@@ -55,4 +55,4 @@ Teaching
   
 Service and leadership
 ======
-[List of professional services](https://www.cin.ufpe.br/~cz/service.html)
+* [List of professional services](https://www.cin.ufpe.br/~cz/service.html)
