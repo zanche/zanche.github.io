@@ -18,7 +18,7 @@ Associate Professor
 [Citations by Google Scholar](https://scholar.google.com/citations?user=Xs-elnEAAAAJ&hl=en) | [DBLP](https://dblp.org/pid/75/5629.html) | [Semantic Scholar](https://www.semanticscholar.org/search?q=Cleber+Zanchettin) | [Microsoft Academic](https://academic.microsoft.com/author/1866277110)
 
 
-
+\\
 Address:
 Universidade Federal de Pernambuco – Centro de Informática, Av. Jornalista Anibal Fernandes, s/n, Cidade Universitária, Recife-PE, Brazil, 50740-540
 
