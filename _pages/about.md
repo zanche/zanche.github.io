@@ -15,7 +15,7 @@ Associate Professor
 
 
 [CV Lattes]() (in portuguese)\\
-[Citations by Google Scholar](https://scholar.google.com/citations?user=Xs-elnEAAAAJ&hl=en) | [DBLP](https://dblp.org/pid/75/5629.html) | [Semantic Scholar](https://www.semanticscholar.org/search?q=Cleber+Zanchettin) | [Microsoft Academic](https://academic.microsoft.com/author/1866277110)
+Citations by [Google Scholar](https://scholar.google.com/citations?user=Xs-elnEAAAAJ&hl=en) | [DBLP](https://dblp.org/pid/75/5629.html) | [Semantic Scholar](https://www.semanticscholar.org/search?q=Cleber+Zanchettin) | [Microsoft Academic](https://academic.microsoft.com/author/1866277110)
 
 
 \\
