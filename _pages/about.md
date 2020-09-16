@@ -19,6 +19,8 @@ Associate Professor
 
 
 \\
+\\
+\\
 Address:
 Universidade Federal de Pernambuco – Centro de Informática, Av. Jornalista Anibal Fernandes, s/n, Cidade Universitária, Recife-PE, Brazil, 50740-540
 
