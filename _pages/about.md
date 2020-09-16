@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+\\
 Associate Professor
 
 [Centro de Informática (CIn)](www.cin.ufpe.br)\\
