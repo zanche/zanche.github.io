@@ -10,8 +10,8 @@ redirect_from:
 \\
 Associate Professor
 
-[Centro de Informática (CIn)](www.cin.ufpe.br)\\
-[Universidade Federal de Pernambuco (UFPE)](www.ufpe.br)
+[Centro de Informática (CIn)](http://www.cin.ufpe.br)\\
+[Universidade Federal de Pernambuco (UFPE)](http://www.ufpe.br)
 
 
 [CV Lattes]() (in portuguese)\\
