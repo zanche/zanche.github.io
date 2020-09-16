@@ -43,10 +43,10 @@
   
 
   <link rel="assets" href="https://github.githubassets.com/">
-    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/16652393/ws?session=eyJ2IjoiVjMiLCJ1IjoxNjY1MjM5MywicyI6NTczNjI2NDMzLCJjIjoxNzI4NTM3MDE3LCJ0IjoxNjAwMjE5NzQ0fQ==--bcba92902ff51cbbf9b87c3324b5aa186605ae2a802df0c7d3481fb476d10ca2" data-refresh-url="/_alive">
+    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/16652393/ws?session=eyJ2IjoiVjMiLCJ1IjoxNjY1MjM5MywicyI6NTczNjI2NDMzLCJjIjozMjAzMzMxOTA0LCJ0IjoxNjAwMjIwMzgzfQ==--30edb8716e2ae7ca6e84167514a2ccd0d3569d4a9126adaee35d799cb5fc0de6" data-refresh-url="/_alive">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
 
-  <meta name="request-id" content="F5F7:6F8A:B6EA55:130432E:5F616A60" data-pjax-transient="true" /><meta name="html-safe-nonce" content="ee458ab5c4e138a1fb1ac0fd3d6370981e27167f" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9nZXRvcmctdGVzdGFjY3QvZ2V0b3JnLXRlc3RhY2N0LmdpdGh1Yi5pby90cmVlL21hc3Rlci9fcHVibGljYXRpb25zIiwicmVxdWVzdF9pZCI6IkY1Rjc6NkY4QTpCNkVBNTU6MTMwNDMyRTo1RjYxNkE2MCIsInZpc2l0b3JfaWQiOiI5MDg3MzU0NTQ3Mjk2Mjg2MjM0IiwicmVnaW9uX2VkZ2UiOiJpYWQiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-pjax-transient="true" /><meta name="visitor-hmac" content="f53a4a7b643cb62cd74940fc0e5a822cd84b8cf0d74aafca128893616b15634e" data-pjax-transient="true" /><meta name="cookie-consent-required" content="false" />
+  <meta name="request-id" content="E12C:0D26:217384:3E584C:5F616CD9" data-pjax-transient="true" /><meta name="html-safe-nonce" content="ee458ab5c4e138a1fb1ac0fd3d6370981e27167f" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9nZXRvcmctdGVzdGFjY3QvZ2V0b3JnLXRlc3RhY2N0LmdpdGh1Yi5pby90cmVlL21hc3Rlci9fcHVibGljYXRpb25zIiwicmVxdWVzdF9pZCI6IkUxMkM6MEQyNjoyMTczODQ6M0U1ODRDOjVGNjE2Q0Q5IiwidmlzaXRvcl9pZCI6IjkwODczNTQ1NDcyOTYyODYyMzQiLCJyZWdpb25fZWRnZSI6ImlhZCIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-pjax-transient="true" /><meta name="visitor-hmac" content="943ecc960c44460b92c6b278e1d1b410ae52c1e8d7901b7e85dd2a494ae5e08f" data-pjax-transient="true" /><meta name="cookie-consent-required" content="false" />
 
     <meta name="hovercard-subject-tag" content="repository:81868342" data-pjax-transient>
 
@@ -90,7 +90,7 @@
 
       <meta name="expected-hostname" content="github.com">
 
-      <meta name="js-proxy-site-detection-payload" content="MTk3YTY5Y2Y4ZTlmNmZkNDkxNzlhZDA1YzI4YTQzNWM4MWZlZjE4NjQyNTVmODk0NmE2ZTg4NmM2MTAzMjg5NHx7InJlbW90ZV9hZGRyZXNzIjoiMTY1LjEyNC4xNjcuMyIsInJlcXVlc3RfaWQiOiJGNUY3OjZGOEE6QjZFQTU1OjEzMDQzMkU6NUY2MTZBNjAiLCJ0aW1lc3RhbXAiOjE2MDAyMTk3NDQsImhvc3QiOiJnaXRodWIuY29tIn0=">
+      <meta name="js-proxy-site-detection-payload" content="MjM4YWQxZjE4OGFiOWRjZjhjN2I1MzcyY2U3OTY4NDI0YzVkOWEwYTNiMDUyMTZiOWQ1NTEwZWM0MWM5YzBkZnx7InJlbW90ZV9hZGRyZXNzIjoiMTY1LjEyNC4xNjcuMyIsInJlcXVlc3RfaWQiOiJFMTJDOjBEMjY6MjE3Mzg0OjNFNTg0Qzo1RjYxNkNEOSIsInRpbWVzdGFtcCI6MTYwMDIyMDM4MywiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
 
     <meta name="enabled-features" content="MARKETPLACE_PENDING_INSTALLATIONS,JS_HTTP_CACHE_HEADERS">
 
@@ -178,7 +178,7 @@
           spellcheck="false"
           autocomplete="off"
           >
-          <input type="hidden" value="hIuNYLEpufGwHp2cWGJ8sW8QQuzGNq42of/6JedUirzSPR7jHPZEFV5Vk4xQkOBFRQ2yjaeqMa2diixN3Ue8LA==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+          <input type="hidden" value="twcPsmmT6MBF92a5D8ilUsRjxzcEjSY9lgEYldh1J77hsZwxxEwVJKu8aKkHOjmm7n43VmURuaaqdM794mYRLg==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
           <input type="hidden" class="js-site-search-type-field" name="type" >
             <img src="https://github.githubassets.com/images/search-key-slash.svg" alt="" class="mr-2 header-search-key-slash">
 
@@ -329,7 +329,7 @@
       <img class="avatar avatar-user" src="https://avatars0.githubusercontent.com/u/16652393?s=40&amp;v=4" width="20" height="20" alt="@zanche" />
       zanche
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="oP+mvRa3ghcQbk40KTKuaDnRtQ06VW1QJNWIPAxnl3lASmM/dnrjZrgCv3iazO0A5ip3osMhI6yeDm7MFal76Q==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="TAd0q9zzM9QyBJawSFDllHR0e0zWQoU4Kl38Ax5LdzmssrEpvD5SpZpoZ/z7rqb8q4+54y82y8SQhhrzB4WbqQ==" />
       <button type="submit" class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade-15 d-md-none btn-link d-block width-full text-left" data-ga-click="Header, sign out, icon:logout" style="padding-left: 2px;">
         <svg class="octicon octicon-sign-out v-align-middle" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M2 2.75C2 1.784 2.784 1 3.75 1h2.5a.75.75 0 010 1.5h-2.5a.25.25 0 00-.25.25v10.5c0 .138.112.25.25.25h2.5a.75.75 0 010 1.5h-2.5A1.75 1.75 0 012 13.25V2.75zm10.44 4.5H6.75a.75.75 0 000 1.5h5.69l-1.97 1.97a.75.75 0 101.06 1.06l3.25-3.25a.75.75 0 000-1.06l-3.25-3.25a.75.75 0 10-1.06 1.06l1.97 1.97z"></path></svg>
         Sign out
@@ -349,7 +349,7 @@
   <div class="Header-item mr-0 mr-md-3 flex-order-1 flex-md-order-none">
     
 
-    <notification-indicator class="js-socket-channel" data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MTY2NTIzOTMiLCJ0IjoxNjAwMjE5NzQ0fQ==--521fba07b6373f9307c2331fcb534d9ae2be4d4251a10fd9b8c35dec08483b39">
+    <notification-indicator class="js-socket-channel" data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MTY2NTIzOTMiLCJ0IjoxNjAwMjIwMzgzfQ==--dcc9589a0028bd771c02384c89af5fed211167713e18f117691f832e10b14aa4">
       <a href="/notifications"
          class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
          aria-label="You have no unread notifications"
@@ -445,7 +445,7 @@
       </div>
     </summary>
     <details-dialog class="details-dialog rounded-1 anim-fade-in fast Box Box--overlay" role="dialog" tabindex="-1">
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="position-relative flex-auto js-user-status-form" action="/users/status?circle=0&amp;compact=1&amp;link_mentions=0&amp;truncate=1" accept-charset="UTF-8" method="post"><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="Dkk/0mCajouGcJADdjK60zw8FX4AXEvEEFfRxTSja6V42ybhyyYkuQbxjhoK8gGQNK0ACRsWOGR+hTMCJexKpw==" />
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="position-relative flex-auto js-user-status-form" action="/users/status?circle=0&amp;compact=1&amp;link_mentions=0&amp;truncate=1" accept-charset="UTF-8" method="post"><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="vIYWTlGJBnLMCGUYeIVuUwm1Ca7JdWuz3iaUn62bJRfKFA99+jWsQEyJewEERdUQASQc2dI/GBOw9HZYvNQEFQ==" />
         <div class="Box-header bg-gray border-bottom p-3">
           <button class="Box-btn-octicon js-toggle-user-status-edit btn-octicon float-right" type="reset" aria-label="Close dialog" data-close-dialog>
             <svg class="octicon octicon-x" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path></svg>
@@ -563,17 +563,17 @@
       </li>
       <li class="dropdown-divider" role="none"></li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 30 minutes" value="2020-09-15T20:59:04-05:00">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 30 minutes" value="2020-09-15T21:09:43-05:00">
             in 30 minutes
           </button>
         </li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 1 hour" value="2020-09-15T21:29:04-05:00">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 1 hour" value="2020-09-15T21:39:43-05:00">
             in 1 hour
           </button>
         </li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 4 hours" value="2020-09-16T00:29:04-05:00">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 4 hours" value="2020-09-16T00:39:43-05:00">
             in 4 hours
           </button>
         </li>
@@ -652,12 +652,12 @@
 
     <a role="menuitem" class="dropdown-item" href="https://docs.github.com" data-ga-click="Header, go to help, text:help" data-hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/getorg-testacct/getorg-testacct.github.io/blob/master/_publications/2015-10-01-paper-title-number-3.md&quot;,&quot;target&quot;:&quot;HELP&quot;,&quot;originating_url&quot;:&quot;https://github.com/getorg-testacct/getorg-testacct.github.io/blob/master/_publications/2015-10-01-paper-title-number-3.md&quot;,&quot;user_id&quot;:16652393}}" data-hydro-click-hmac="38861e1a12d3ff0b0ebcd58fd410352761707883c2e0610a0cdd4e4bb0e2b6d8" >Help</a>
     <a role="menuitem" class="dropdown-item" href="/settings/profile" data-ga-click="Header, go to settings, icon:settings" data-hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/getorg-testacct/getorg-testacct.github.io/blob/master/_publications/2015-10-01-paper-title-number-3.md&quot;,&quot;target&quot;:&quot;SETTINGS&quot;,&quot;originating_url&quot;:&quot;https://github.com/getorg-testacct/getorg-testacct.github.io/blob/master/_publications/2015-10-01-paper-title-number-3.md&quot;,&quot;user_id&quot;:16652393}}" data-hydro-click-hmac="dbbad6dd7cffe06d5fee5e948ecbca1c71cded44bc461b1c6c013b84c7fd792d" >Settings</a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="lhQvXae/lJgkBGFz+g+/T4VvmYFQxvUBQSe8oR05rQF2oerfx3L16YxokD9J8fwnWpRbLqmyu/37/FpRBPdBkQ==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="DlvzWVqsbdUqEPx04qAFX21KpdnlHlaTJ9hdjcURxfbu7jbbOmEMpIJ8DThRXkY3srFndhxqGG+dA7t93N8pZg==" />
       
       <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout" data-hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/getorg-testacct/getorg-testacct.github.io/blob/master/_publications/2015-10-01-paper-title-number-3.md&quot;,&quot;target&quot;:&quot;SIGN_OUT&quot;,&quot;originating_url&quot;:&quot;https://github.com/getorg-testacct/getorg-testacct.github.io/blob/master/_publications/2015-10-01-paper-title-number-3.md&quot;,&quot;user_id&quot;:16652393}}" data-hydro-click-hmac="cca02e95e6904c2d64cd458cee2403ba719e4ca3e71821748b9f15680228f239"  role="menuitem">
         Sign out
       </button>
-      <input type="text" name="required_field_0f4c" hidden="hidden" class="form-control" /><input type="hidden" name="timestamp" value="1600219744971" class="form-control" /><input type="hidden" name="timestamp_secret" value="f5fba304e5cbd362695e0cbd06ac3fdc3e684a8fe1549f3ccbc4b3c22c06d279" class="form-control" />
+      <input type="text" name="required_field_f516" hidden="hidden" class="form-control" /><input type="hidden" name="timestamp" value="1600220383525" class="form-control" /><input type="hidden" name="timestamp_secret" value="5efc2f4251a0de9643752d8568722a01569aab9ce5f4d31bf4e66aa5b9981eae" class="form-control" />
 </form>  </details-menu>
 </details>
 
@@ -744,7 +744,7 @@
           <ul class="pagehead-actions flex-shrink-0 d-none d-md-inline" style="padding: 2px 0;">
 
   <li>
-            <form data-remote="true" class="d-flex js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="EjopOxmTOHxbic9YV0jgEd/HqwLNKyO7fVuL1B3mO95M11udLeGDRzWSt5WUGgAycMBRaR1YWEfWE8UY1bCfiw==" />      <input type="hidden" name="repository_id" value="81868342">
+            <form data-remote="true" class="d-flex js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="SE4OwXa/OXuBZlLx40q+dHaBS+AXgYa1+FU32V9lFvMWo3xnQs2CQO99KjwgGF5X2Yaxi8fy/UlTHXkVlzOypg==" />      <input type="hidden" name="repository_id" value="81868342">
 
       <details class="details-reset details-overlay select-menu hx_rsm">
         <summary class="btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:81868342,&quot;originating_url&quot;:&quot;https://github.com/getorg-testacct/getorg-testacct.github.io/blob/master/_publications/2015-10-01-paper-title-number-3.md&quot;,&quot;user_id&quot;:16652393}}" data-hydro-click-hmac="677a453932bd9d839a85742f297a4f14028a4e3aa9590618f813d539862a6c91" data-ga-click="Repository, click Watch settings, action:blob#show">          <span data-menu-button>
@@ -819,7 +819,7 @@
 
   <li>
         <div class="js-toggler-container js-social-container starring-container ">
-    <form class="starred js-social-form" action="/getorg-testacct/getorg-testacct.github.io/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="VsE6U97YiUv2+bev524SZBCED6MWD7zBw3bCaxEDnJ1nTs1LpJXe/8qiwaglr9eZ8r2zI841eYyqfDkd9L4jrw==" />
+    <form class="starred js-social-form" action="/getorg-testacct/getorg-testacct.github.io/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="A3tsyhIfAnYIMao5BFIbx5b6s77EzBBE7C096ZanRAUy9JvSaFJVwjRq3D7Gk946dMMPPhz21QmFJ8afcxr7Nw==" />
       <input type="hidden" name="context" value="repository"></input>
       <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Unstar getorg-testacct/getorg-testacct.github.io" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:81868342,&quot;originating_url&quot;:&quot;https://github.com/getorg-testacct/getorg-testacct.github.io/blob/master/_publications/2015-10-01-paper-title-number-3.md&quot;,&quot;user_id&quot;:16652393}}" data-hydro-click-hmac="7d6aa4c30bbc281e27efe2f5b9cfd724a58c2c7017e3c635495b34d3c24738af" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg height="16" class="octicon octicon-star-fill" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path></svg>
         Unstar
@@ -828,7 +828,7 @@
            9
         </a>
 </form>
-    <form class="unstarred js-social-form" action="/getorg-testacct/getorg-testacct.github.io/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="14RRoN7nA394oRiTeuNh/R+t3T6B3dS+v+88NQxpbPqYLxAH33IrYYQ2kBYDcCLSZMMg+bj7SeWF4wVKeJibhA==" />
+    <form class="unstarred js-social-form" action="/getorg-testacct/getorg-testacct.github.io/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="RUmnoMiVfu1y+1QicW+1V2hVj4UojuLepbHh6oVJCYcK4uYHyQBW845s3KcI/PZ4EztyQhGof4WfvdiV8bj++Q==" />
       <input type="hidden" name="context" value="repository"></input>
       <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Star getorg-testacct/getorg-testacct.github.io" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:81868342,&quot;originating_url&quot;:&quot;https://github.com/getorg-testacct/getorg-testacct.github.io/blob/master/_publications/2015-10-01-paper-title-number-3.md&quot;,&quot;user_id&quot;:16652393}}" data-hydro-click-hmac="ef7ed67c78c1ae9820027d253ff28103314c288fb34b476fce6d5b8d1b510c6e" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg height="16" class="octicon octicon-star" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path></svg>
         Star
@@ -1052,17 +1052,69 @@
 
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-      <include-fragment src="/getorg-testacct/getorg-testacct.github.io/contributors/master/_publications/2015-10-01-paper-title-number-3.md" class="commit-loader">
-        <div class="Box-header Box-header--blue d-flex flex-items-center">
-          <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
-          <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
-        </div>
+      
+  <div class="Box-header Box-header--blue Details js-details-container">
+      <div class="d-flex flex-items-center">
+        <span class="flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1">
+          <a rel="contributor" data-skip-pjax="true" data-hovercard-type="user" data-hovercard-url="/users/staeiou/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/staeiou"><img class="avatar avatar-user" src="https://avatars2.githubusercontent.com/u/4693439?s=48&amp;v=4" width="24" height="24" alt="@staeiou" /></a>
+        </span>
+        <div class="flex-1 d-flex flex-items-center ml-3 min-width-0">
+          <div class="css-truncate css-truncate-overflow">
+            <a class="text-bold link-gray-dark" rel="contributor" data-hovercard-type="user" data-hovercard-url="/users/staeiou/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/staeiou">staeiou</a>
 
-        <div class="Box-body d-flex flex-items-center" >
-          <div class="Skeleton Skeleton--text col-1">&nbsp;</div>
-          <span class="text-red h6 loader-error">Cannot retrieve contributors at this time</span>
+              <span>
+                <a data-pjax="true" title="Update 2015-10-01-paper-title-number-3.md" class="link-gray" href="/getorg-testacct/getorg-testacct.github.io/commit/41396b95ca0ad6759c29a484acfa98c08d0b211a">Update 2015-10-01-paper-title-number-3.md</a>
+              </span>
+          </div>
+
+
+          <span class="ml-2">
+            <include-fragment accept="text/fragment+html" src="/getorg-testacct/getorg-testacct.github.io/commit/41396b95ca0ad6759c29a484acfa98c08d0b211a/rollup?direction=e" class="d-inline"></include-fragment>
+          </span>
         </div>
-</include-fragment>    </div>
+        <div class="ml-3 d-flex flex-shrink-0 flex-items-center flex-justify-end text-gray no-wrap">
+          <span class="d-none d-md-inline">
+            <span>Latest commit</span>
+            <a class="text-small text-mono link-gray" href="/getorg-testacct/getorg-testacct.github.io/commit/41396b95ca0ad6759c29a484acfa98c08d0b211a" data-pjax>41396b9</a>
+            <span itemprop="dateModified"><relative-time datetime="2016-09-19T20:53:54Z" class="no-wrap">Sep 19, 2016</relative-time></span>
+          </span>
+
+          <a data-pjax href="/getorg-testacct/getorg-testacct.github.io/commits/master/_publications/2015-10-01-paper-title-number-3.md" class="ml-3 no-wrap link-gray-dark no-underline">
+            <svg text="gray" height="16" class="octicon octicon-history text-gray" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"></path></svg>
+            <span class="d-none d-sm-inline">
+              <strong>History</strong>
+            </span>
+          </a>
+        </div>
+      </div>
+
+  </div>
+
+  <div class="Box-body d-flex flex-items-center flex-auto border-bottom-0 flex-wrap" >
+    <details class="details-reset details-overlay details-overlay-dark lh-default text-gray-dark float-left mr-3" id="blob_contributors_box">
+      <summary class="link-gray-dark">
+        <svg text="gray" height="16" class="octicon octicon-people text-gray" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"></path></svg>
+        <strong>1</strong>
+        
+        contributor
+      </summary>
+      <details-dialog
+        class="Box Box--overlay d-flex flex-column anim-fade-in fast"
+        aria-label="Users who have contributed to this file"
+        src="/getorg-testacct/getorg-testacct.github.io/contributors-list/master/_publications/2015-10-01-paper-title-number-3.md" preload>
+        <div class="Box-header">
+          <button class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
+            <svg class="octicon octicon-x" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path></svg>
+          </button>
+          <h3 class="Box-title">
+            Users who have contributed to this file
+          </h3>
+        </div>
+        <include-fragment class="octocat-spinner my-3" aria-label="Loading..."></include-fragment>
+      </details-dialog>
+    </details>
+  </div>
+    </div>
 
 
 
@@ -1096,13 +1148,13 @@
               <svg class="octicon octicon-device-desktop" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M1.75 2.5h12.5a.25.25 0 01.25.25v7.5a.25.25 0 01-.25.25H1.75a.25.25 0 01-.25-.25v-7.5a.25.25 0 01.25-.25zM14.25 1H1.75A1.75 1.75 0 000 2.75v7.5C0 11.216.784 12 1.75 12h3.727c-.1 1.041-.52 1.872-1.292 2.757A.75.75 0 004.75 16h6.5a.75.75 0 00.565-1.243c-.772-.885-1.193-1.716-1.292-2.757h3.727A1.75 1.75 0 0016 10.25v-7.5A1.75 1.75 0 0014.25 1zM9.018 12H6.982a5.72 5.72 0 01-.765 2.5h3.566a5.72 5.72 0 01-.765-2.5z"></path></svg>
           </a>
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/getorg-testacct/getorg-testacct.github.io/edit/master/_publications/2015-10-01-paper-title-number-3.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="uxmDFRDWiPCH9HzNtJ066D2ZI5O2SkngFr8IVuATVkPszha7ll6NI4gxlPaUjDjlbyuQVzjF0tPA+jyCg83IXw==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/getorg-testacct/getorg-testacct.github.io/edit/master/_publications/2015-10-01-paper-title-number-3.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="L/fVEz8Io2gXE+VhlfRm4D2FFPTPFHoLw9SmRWxdVo94IEC9uYCmuxjWDVq15WTtbzenMEGb4TgVkZKRD4PIkw==" />
             <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
               aria-label="Edit the file in your fork of this project" data-hotkey="e" data-disable-with>
               <svg class="octicon octicon-pencil" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11.013 1.427a1.75 1.75 0 012.474 0l1.086 1.086a1.75 1.75 0 010 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 01-.927-.928l.929-3.25a1.75 1.75 0 01.445-.758l8.61-8.61zm1.414 1.06a.25.25 0 00-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 000-.354l-1.086-1.086zM11.189 6.25L9.75 4.81l-6.286 6.287a.25.25 0 00-.064.108l-.558 1.953 1.953-.558a.249.249 0 00.108-.064l6.286-6.286z"></path></svg>
             </button>
 </form>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/getorg-testacct/getorg-testacct.github.io/delete/master/_publications/2015-10-01-paper-title-number-3.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="o6U0gFM+YRopQT20TcjcdFSD4FXgrRbaAnARxDIrUHRTCO3SdqczrSmLnr8oxz8VBBiYzpnMzSzyOoa5oMbrpA==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/getorg-testacct/getorg-testacct.github.io/delete/master/_publications/2015-10-01-paper-title-number-3.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="l7I9kw585VykJqqA911kT6oh7qO4OqVKsCaYhtngSwZnH+TBK+W366TsCYuSUocu+rqWOMFbfrxAbA/7Sw3w1g==" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Delete the file in your fork of this project" data-disable-with>
               <svg class="octicon octicon-trashcan" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M6.5 1.75a.25.25 0 01.25-.25h2.5a.25.25 0 01.25.25V3h-3V1.75zm4.5 0V3h2.25a.75.75 0 010 1.5H2.75a.75.75 0 010-1.5H5V1.75C5 .784 5.784 0 6.75 0h2.5C10.216 0 11 .784 11 1.75zM4.496 6.675a.75.75 0 10-1.492.15l.66 6.6A1.75 1.75 0 005.405 15h5.19c.9 0 1.652-.681 1.741-1.576l.66-6.6a.75.75 0 00-1.492-.149l-.66 6.6a.25.25 0 01-.249.225h-5.19a.25.25 0 01-.249-.225l-.66-6.6z"></path></svg>
