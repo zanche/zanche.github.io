@@ -53,4 +53,5 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-[Service and leadership](https://www.cin.ufpe.br/~cz/service.html)
+Service and leadership
+[List of professional services](https://www.cin.ufpe.br/~cz/service.html)
