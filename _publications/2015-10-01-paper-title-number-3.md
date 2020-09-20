@@ -2,7 +2,7 @@
 title: "List of publications"
 collection: teaching
 type: "Course"
-permalink: /pub/2015-10-01-paper-title-number-3
+permalink: /publications/2015-10-01-paper-title-number-3
 venue: "Universidade Federal de Pernambuco, Centro de Informática"
 date: 2020-10-01
 location: "Recife, Brazil"
