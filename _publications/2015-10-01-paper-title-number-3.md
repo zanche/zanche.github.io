@@ -1,3 +1,4 @@
+---
 title: "Deep Learning"
 collection: teaching
 type: "Course"
