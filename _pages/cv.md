@@ -37,9 +37,8 @@ Awards and Honors
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  <script src="https://bibbase.org/show?bib=https://dblp.org/pid/75/5629.bib&jsonp=1"></script>
+
   
 Talks
 ======
