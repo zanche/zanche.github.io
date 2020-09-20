@@ -1,5 +1,5 @@
 ---
-title: "Deep Learning"
+title: ""
 collection: teaching
 type: "Course"
 permalink: /pub/2015-10-01-paper-title-number-3
