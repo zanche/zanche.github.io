@@ -1,6 +1,6 @@
 ---
 title: "Paper Title Number 2"
-collection: publications
+collection: teaching
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2010-10-01
